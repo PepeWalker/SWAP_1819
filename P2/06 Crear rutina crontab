@@ -1,0 +1,13 @@
+Crear rutina crontab
+
+
+con permisos SUDO,  
+
+crontab -e
+
+editamos el archivo y añadimos una rutina
+
+1 * * * * root ssh jorgep@192.168.75.128:/var/www/ /var/www/
+
+
+guardamos lo añadido y salimos.
