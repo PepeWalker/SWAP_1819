@@ -7,7 +7,7 @@ crontab -e
 
 editamos el archivo y añadimos una rutina
 
-1 * * * * root ssh jorgep@192.168.75.128:/var/www/ /var/www/
+*/1 * * * * jorgep rsync -avz --delete -exclude=**/custom -e ssh jorgep@192.168.75.128:/var/www/ /var/www/
 
 
 guardamos lo añadido y salimos.
