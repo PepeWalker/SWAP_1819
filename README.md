@@ -7,8 +7,8 @@ de la asignatura.
 
 Los integrantes del grupo de prácticas somos:
 
-- [Jorge Palma Ramirez](github.com/PepeWalker)
-- [Luis Liñán Villafranca](github.com/lulivi)
+- [Jorge Palma Ramirez](https://github.com/PepeWalker)
+- [Luis Liñán Villafranca](https://github.com/lulivi)
 
 ## Prácticas
 
